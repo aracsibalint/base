@@ -2,7 +2,7 @@
 
 # This is a Heading
 
-__ This is bold __
+**This is bold**
 *This is Italic*
 
 This is a sample application for the verification laboratory.
