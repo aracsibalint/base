@@ -1,7 +1,8 @@
 # Train Speed Controller
 
 # This is a Heading
-** This is bold **
+
+__ This is bold __
 *This is Italic*
 
 This is a sample application for the verification laboratory.
